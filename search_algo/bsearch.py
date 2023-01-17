@@ -1,5 +1,11 @@
 # This is a function that performs a binary search on a sorted list
 
+# The time complexity of this code is O(log n)
+# as it's using a divide and conquer approach
+# in which the size of the problem is halved in each iteration
+# This makes the time complexity of this function O(log n) 
+# which is considered to be very efficient for large lists
+
 def binary_search(arr, low , high, x):
 
     # checks if the highest value of the list is bigger than it's lowest
