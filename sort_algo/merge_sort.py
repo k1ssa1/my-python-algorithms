@@ -1,3 +1,5 @@
+# The time complexity of this code is O(n log n)
+
 def merge_sort(ds):
     #check if the lenth of the list is greater than 1
     if len(ds) > 1:
