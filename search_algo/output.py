@@ -1,7 +1,6 @@
 # module imports
 import bsearch as bs
 import lsearch as ls
-
 # defining the lists and the target
 arr = [1,3,6,9,12,18]
 x = 12
